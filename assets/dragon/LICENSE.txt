@@ -1,0 +1,11 @@
+Dragons — by Blarumyrran
+========================
+
+Source: https://opengameart.org/content/dragons
+License: Creative Commons Zero v1.0 Universal (CC0 1.0)
+https://creativecommons.org/publicdomain/zero/1.0/
+
+The author states that attribution is not required. It is provided here with thanks.
+
+Used in Emberfall as the dragon boss, "Vaelros, the Ashen Wyrm".
+The original PNG is kept unmodified at assets/dragon/dragon.png.
